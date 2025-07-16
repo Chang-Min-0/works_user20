@@ -4,6 +4,7 @@
 
 ## ✅ 프로젝트 산출물 검색 AI 에이전트 
 (https://user20-webapp-005.azurewebsites.net/main)
+![image](https://github.com/user-attachments/assets/e7fab7ab-300d-407c-ac41-1862b8981554)
 ---
 
 ### 📌 개요 및 목적
